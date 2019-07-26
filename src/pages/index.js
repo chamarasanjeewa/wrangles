@@ -30,7 +30,7 @@ var settings = {
     { url: require('../assets/images/20.jpg'), position: 'center center' },
     { url: require('../assets/images/21.jpg'), position: 'center center' },
   ],
-  // Delay.
+  // Delay.dd
   delay: 3000,
 };
 
